@@ -1,0 +1,79 @@
+{
+  "id": "1889326",
+  "name": "严选",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1704628",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e6f3",
+      "unicode_decimal": 59123
+    },
+    {
+      "icon_id": "124857",
+      "name": "微博",
+      "font_class": "weibo",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "970752",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "11349237",
+      "name": "QQ",
+      "font_class": "QQ",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "11474219",
+      "name": "all",
+      "font_class": "all",
+      "unicode": "e6ef",
+      "unicode_decimal": 59119
+    },
+    {
+      "icon_id": "11474220",
+      "name": "bussiness-man",
+      "font_class": "bussiness-man",
+      "unicode": "e6f0",
+      "unicode_decimal": 59120
+    },
+    {
+      "icon_id": "11488003",
+      "name": "cart-Empty",
+      "font_class": "cart-Empty",
+      "unicode": "e747",
+      "unicode_decimal": 59207
+    },
+    {
+      "icon_id": "11488014",
+      "name": "credit-level",
+      "font_class": "credit-level",
+      "unicode": "e74a",
+      "unicode_decimal": 59210
+    },
+    {
+      "icon_id": "11488058",
+      "name": "hot",
+      "font_class": "hot",
+      "unicode": "e753",
+      "unicode_decimal": 59219
+    },
+    {
+      "icon_id": "11674090",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e7a7",
+      "unicode_decimal": 59303
+    }
+  ]
+}
